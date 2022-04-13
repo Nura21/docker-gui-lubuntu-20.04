@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Dockstation
+Comment=Manage Container
+GenericName=Container
+Exec=/home/nura/Dockstation/Dockstation.AppImage
+Icon=/home/nura/Dockstation/docker.png
+Type=Application
+Categories=Docker;
+Keywords=dockstation;
